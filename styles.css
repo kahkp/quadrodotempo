@@ -1,0 +1,104 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .quadrozero {
+    background-color: #FFB4A2;
+    color: black;
+    padding: 15px;
+    margin-left: 35px;
+    margin-right: 25px;
+    border-radius: 50px;
+    width: 500px;
+    height: 150px;
+    display: flex;
+    font-family: serif;
+  }
+  
+  .localizador {
+    width: 10px;
+  }
+  
+  .nuvem {
+    width: 150px;
+    padding: 10px;
+  }
+  
+  .vento {
+    height: 30px;
+  }
+  
+  .quadrooum {
+    width: 100px;
+  margin-right: 5%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  }
+  
+  .quadrooum h1 {
+    font-size: 100px;
+   margin: 0%;
+   margin-top: 0%;
+    
+  }
+  
+  .quadrooum h5 {
+    font-size: 10px;
+    margin-bottom: 0%;
+  }
+  
+  .quadrodois {
+    width: 200px;
+    
+  }
+  
+  .quadrotres {
+    width: 100px;
+    text-align: center;
+    margin: 0%;
+    margin-left: 0%;
+    padding: 0%;
+  }
+  .quadrotres p {
+    margin: 0;
+  }
+  .trintaum  {
+  font-size: 40px;
+  margin: 0%;
+  margin-bottom: 40px;
+  }
+  .quinzekmvento {
+    font-size: 15px;
+   display: flex;
+   align-items: center;
+  }
+  .quinzekmvento b {
+    font-size: 25px;
+  }
+  .quadroquatro {
+    width: 100px;
+    text-align: center;
+  }
+  .quadroquatro p {
+  margin: 0;
+  }
+  .indiceuv {
+font-size: 15px;
+margin-bottom: 30px;
+  }
+  .indiceuv div {
+    display: flex;
+    justify-content: center;
+  }
+  .indiceuv div b {
+    font-size: 25px;
+    
+  }
+  .umidadesetenta b {
+    font-size: 30px;
+  }
